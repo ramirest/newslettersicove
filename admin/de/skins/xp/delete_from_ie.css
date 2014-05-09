@@ -1,0 +1,254 @@
+/* Media Manager Styles */
+
+.de_tabOn
+{
+	font-family: Arial;
+	font-size: 12px;
+	width: 74px;
+	height: 20px;
+	text-align: center;
+	background-image: url(images/tab.active.png);
+	background-repeat: no-repeat;
+	padding-top: 3px;
+	margin-right: 2px;
+	cursor: hand;
+	z-index: 100;
+}
+
+.de_tabOff
+{
+	font-family: Arial;
+	font-size: 12px;
+	width: 70px;
+	height: 20px;
+	text-align: center;
+	background-image: url(images/tab.png);
+	background-repeat: no-repeat;
+	padding-top: 3px;
+	margin-right: 2px;
+	cursor: hand;
+	z-index: 100;
+}
+
+.de_imageTabOn
+{
+	position: absolute;
+	left: 10px;
+	top: 15px;
+}
+
+.de_imageTabOff
+{
+	position: absolute;
+	left: 10px;
+	top: 14px;
+}
+
+.de_flashTabOn
+{
+	position: absolute;
+	left: 85px;
+	top: 15px;
+}
+
+.de_flashTabOff
+{
+	position: absolute;
+	left: 85px;
+	top: 14px;
+}
+
+.de_mediaTabOn
+{
+	position: absolute;
+	left: 157px;
+	top: 15px;
+}
+
+.de_mediaTabOff
+{
+	position: absolute;
+	left: 157px;
+	top: 14px;
+}
+
+.de_box
+{
+	width: 630px;
+	height: 450px;
+	background-color: #FCFCFE;
+	border: solid 1px #879EAC;
+	position: absolute;
+	left: 10px;
+	top: expression( if((navigator.userAgent.indexOf("MSIE")) >= 0) {'34px';} else {'36px';});
+}
+
+.de_ButtonOff
+{
+	border: solid 1px #F4F4F4;
+	cursor: default;
+}
+
+.de_ButtonOn
+{
+	border: solid 1px darkblue;
+	background-color: #f2f6fc;
+	cursor: hand;
+}
+
+.de_ButtonDisabled
+{
+	filter: alpha(opacity=30);
+	-moz-opacity: 0.30;
+}
+
+.de_Folder
+{
+	color: black;
+	text-decoration: none;
+}
+
+.de_Folder:hover
+{
+	color: blue;
+	text-decoration: underline;
+}
+
+.de_Input
+{
+	position: absolute;
+	left: 130px;
+	top: 150px;
+	width: 400px;
+	height: 100px;
+	background-color: #ECE9D8;
+	z-index: 2000;
+	border: solid 1px gray;
+	font-family:  Arial;
+	font-size: 12px;
+	display: none;
+}
+
+.de_InputText
+{
+	width: 81%;
+	height: 70%;
+	padding: 10px;
+}
+
+.de_InputOK
+{
+	position: absolute;
+	left: 337px;
+	top: 10px;
+	font-family: Arial;
+	font-size: 11px;
+	width: 55px;
+}
+
+.de_InputCancel
+{
+	position: absolute;
+	left: 337px;
+	top: 35px;
+	font-family: Arial;
+	font-size: 11px;
+	width: 55px;
+}
+
+.de_InputBox
+{
+	position: absolute;
+	left: 10px;
+	top: 65px;
+	font-family: Arial;
+	font-size: 12px;
+	width: 380px;
+}
+
+.de_FolderBox
+{
+	font-family: Arial;
+	font-size: 12px;
+	font-weight: bold;
+	color: white;
+	padding: 3px 0px 0px 5px;
+	background-color: gray;
+	margin: 14px 0px -12px 15px;
+	height: 18px;
+	width: 260;
+}
+
+.de_ThumbTD
+{
+	width: 33%;
+	height: 65px;
+}
+
+.de_ThumbDiv
+{
+	width: 60px;
+	height: 60px;
+	border: solid 1px #ECE9D8;
+	margin: 7px 5px 5px 9px;
+	cursor: hand;
+}
+
+.de_ThumbA
+{
+	color: black;
+	text-decoration: none;
+}
+
+.de_ThumbA:hover
+{
+	text-decoration: underline;
+}
+
+.de_PreviewBox
+{
+	position: absolute;
+	left: 275px;
+	top: 53px;
+	font-family: Arial;
+	font-size: 11px;
+	height: 140px;
+	border: solid 1px gray;
+	margin: 15px;
+	overflow: auto;
+	background-color: white;
+	padding: 10px;
+	width: 310px;
+}
+
+.de_ImagePropWin
+{
+	position: absolute;
+	left: 275px;
+	border: solid 1px gray;
+	margin: 15px;
+	overflow: auto;
+	background-color: white;
+	padding: 5px;
+	top: 205;
+	height: 188;
+	width: 310;
+}
+
+.de_ImageInsert
+{
+	font-family: Arial;
+	font-size: 11px;
+	position: absolute;
+	top: 418;
+	left: 455;
+}
+
+.de_ImageCancel
+{
+	font-family: Arial;
+	font-size: 11px;
+	position: absolute;
+	top: 418;
+	left: 552;
+}

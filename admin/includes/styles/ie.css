@@ -1,0 +1,39 @@
+#headermenu li ul {
+	margin-top: 0px;
+	margin-left: 2px;
+}
+
+#leadtab {
+	height: 19px;
+	width: 1px;
+}
+
+.menu_statistics_button
+{
+	width: 140px;
+}
+
+.menu_subscriber_button
+{
+	width: 130px;
+}
+
+.menu_list_button
+{
+	width: 135px;
+}
+
+.menu_newsletter_button
+{
+	width: 158px;
+}
+
+.menu_autoresponder_button
+{
+	width: 152px;
+}
+
+.menu_template_button
+{
+	width: 120px;
+}

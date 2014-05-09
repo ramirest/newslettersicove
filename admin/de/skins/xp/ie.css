@@ -1,0 +1,23 @@
+.de_popupitem_icon_disabled {
+	width: 21px;
+	height: 20px;
+	cursor: pointer;
+	filter: gray() alpha(opacity=30);
+}
+
+.de_TB_Button_Disabled {
+	filter: gray() alpha(opacity=30);
+}
+
+
+/* Used for popup menu's when menu option icon is disabled.
+Example, when right clicking and cut, copy or paste are not enabled */
+.de_icon_disabled {
+	filter: gray() alpha(opacity=30);
+}
+
+.de_TB_ButtonDrop_Disabled {
+	margin: 1px;
+	filter: alpha(opacity=30);
+}
+

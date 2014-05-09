@@ -1,0 +1,847 @@
+[14-May-2010 08:31:08] PHP Notice:  Undefined variable: extra in /home/ipbcarir/public_html/secretariavirtual/newsletter/admin/functions/settings.php on line 423
+[14-May-2010 08:31:47] PHP Notice:  Undefined variable: extra in /home/ipbcarir/public_html/secretariavirtual/newsletter/admin/functions/settings.php on line 423
+[14-May-2010 08:32:40] PHP Notice:  Undefined variable: extra in /home/ipbcarir/public_html/secretariavirtual/newsletter/admin/functions/settings.php on line 423
+[17-May-2010 13:40:18] PHP Notice:  Undefined variable: extra in /home/ipbcarir/public_html/secretariavirtual/newsletter/admin/functions/settings.php on line 423
+[19-May-2010 20:03:56] PHP Warning:  require(/home/ipbcarir/public_html/secretariavirtual/newsletter/admin/functions/lib/database/.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/ipbcarir/public_html/secretariavirtual/newsletter/admin/functions/init.php on line 189
+[19-May-2010 20:03:56] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '/home/ipbcarir/public_html/secretariavirtual/newsletter/admin/functions/lib/database/.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ipbcarir/public_html/secretariavirtual/newsletter/admin/functions/init.php on line 189
+[24-May-2010 12:17:07] PHP Warning:  require(/home/ipbcarir/public_html/secretariavirtual/newsletter/admin/functions/lib/database/.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/ipbcarir/public_html/secretariavirtual/newsletter/admin/functions/init.php on line 189
+[24-May-2010 12:17:07] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '/home/ipbcarir/public_html/secretariavirtual/newsletter/admin/functions/lib/database/.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ipbcarir/public_html/secretariavirtual/newsletter/admin/functions/init.php on line 189
+[24-May-2010 12:17:14] PHP Warning:  require(/home/ipbcarir/public_html/secretariavirtual/newsletter/admin/functions/lib/database/.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/ipbcarir/public_html/secretariavirtual/newsletter/admin/functions/init.php on line 189
+[24-May-2010 12:17:14] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '/home/ipbcarir/public_html/secretariavirtual/newsletter/admin/functions/lib/database/.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ipbcarir/public_html/secretariavirtual/newsletter/admin/functions/init.php on line 189
+[24-May-2010 12:17:14] PHP Warning:  require(/home/ipbcarir/public_html/secretariavirtual/newsletter/admin/functions/lib/database/.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/ipbcarir/public_html/secretariavirtual/newsletter/admin/functions/init.php on line 189
+[24-May-2010 12:17:14] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '/home/ipbcarir/public_html/secretariavirtual/newsletter/admin/functions/lib/database/.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ipbcarir/public_html/secretariavirtual/newsletter/admin/functions/init.php on line 189
+[24-May-2010 12:42:25] PHP Warning:  require(/home/ipbcarir/public_html/secretariavirtual/newsletter/admin/functions/lib/database/.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/ipbcarir/public_html/secretariavirtual/newsletter/admin/functions/init.php on line 189
+[24-May-2010 12:42:25] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '/home/ipbcarir/public_html/secretariavirtual/newsletter/admin/functions/lib/database/.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ipbcarir/public_html/secretariavirtual/newsletter/admin/functions/init.php on line 189
+[24-May-2010 12:43:20] PHP Warning:  require(/home/ipbcarir/public_html/secretariavirtual/newsletter/admin/functions/lib/database/.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/ipbcarir/public_html/secretariavirtual/newsletter/admin/functions/init.php on line 189
+[24-May-2010 12:43:20] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '/home/ipbcarir/public_html/secretariavirtual/newsletter/admin/functions/lib/database/.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ipbcarir/public_html/secretariavirtual/newsletter/admin/functions/init.php on line 189
+[24-May-2010 12:45:55] PHP Warning:  require(/home/ipbcarir/public_html/secretariavirtual/newsletter/admin/functions/lib/database/.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/ipbcarir/public_html/secretariavirtual/newsletter/admin/functions/init.php on line 189
+[24-May-2010 12:45:55] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '/home/ipbcarir/public_html/secretariavirtual/newsletter/admin/functions/lib/database/.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ipbcarir/public_html/secretariavirtual/newsletter/admin/functions/init.php on line 189
+[24-May-2010 12:45:56] PHP Warning:  require(/home/ipbcarir/public_html/secretariavirtual/newsletter/admin/functions/lib/database/.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/ipbcarir/public_html/secretariavirtual/newsletter/admin/functions/init.php on line 189
+[24-May-2010 12:45:56] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '/home/ipbcarir/public_html/secretariavirtual/newsletter/admin/functions/lib/database/.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ipbcarir/public_html/secretariavirtual/newsletter/admin/functions/init.php on line 189
+[24-May-2010 12:46:06] PHP Warning:  require(/home/ipbcarir/public_html/secretariavirtual/newsletter/admin/functions/lib/database/.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/ipbcarir/public_html/secretariavirtual/newsletter/admin/functions/init.php on line 189
+[24-May-2010 12:46:06] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '/home/ipbcarir/public_html/secretariavirtual/newsletter/admin/functions/lib/database/.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ipbcarir/public_html/secretariavirtual/newsletter/admin/functions/init.php on line 189
+[10-Jun-2010 18:10:10] PHP Fatal error:  Access denied for user 'aguiasti_aguiast'@'localhost' (using password: YES) in /home/aguiasti/public_html/escritoriovirtual/newsletter/admin/functions/init.php on line 197
+[10-Jun-2010 18:10:11] PHP Fatal error:  Access denied for user 'aguiasti_aguiast'@'localhost' (using password: YES) in /home/aguiasti/public_html/escritoriovirtual/newsletter/admin/functions/init.php on line 197
+[10-Jun-2010 18:10:27] PHP Fatal error:  Access denied for user 'aguiasti_aguiast'@'localhost' (using password: YES) in /home/aguiasti/public_html/escritoriovirtual/newsletter/admin/functions/init.php on line 197
+[10-Jun-2010 18:10:30] PHP Fatal error:  Access denied for user 'aguiasti_aguiast'@'localhost' (using password: YES) in /home/aguiasti/public_html/escritoriovirtual/newsletter/admin/functions/init.php on line 197
+[10-Jun-2010 18:12:02] PHP Fatal error:  Access denied for user 'aguiasti_aguiast'@'localhost' (using password: YES) in /home/aguiasti/public_html/escritoriovirtual/newsletter/admin/functions/init.php on line 197
+[10-Jun-2010 18:12:03] PHP Fatal error:  Access denied for user 'aguiasti_aguiast'@'localhost' (using password: YES) in /home/aguiasti/public_html/escritoriovirtual/newsletter/admin/functions/init.php on line 197
+[10-Jun-2010 18:12:04] PHP Fatal error:  Access denied for user 'aguiasti_aguiast'@'localhost' (using password: YES) in /home/aguiasti/public_html/escritoriovirtual/newsletter/admin/functions/init.php on line 197
+[10-Jun-2010 18:12:05] PHP Fatal error:  Access denied for user 'aguiasti_aguiast'@'localhost' (using password: YES) in /home/aguiasti/public_html/escritoriovirtual/newsletter/admin/functions/init.php on line 197
+[10-Jun-2010 18:12:06] PHP Fatal error:  Access denied for user 'aguiasti_aguiast'@'localhost' (using password: YES) in /home/aguiasti/public_html/escritoriovirtual/newsletter/admin/functions/init.php on line 197
+[10-Jun-2010 18:12:07] PHP Fatal error:  Access denied for user 'aguiasti_aguiast'@'localhost' (using password: YES) in /home/aguiasti/public_html/escritoriovirtual/newsletter/admin/functions/init.php on line 197
+[28-Jun-2010 17:12:25] PHP Notice:  fgetcsv() [<a href='function.fgetcsv'>function.fgetcsv</a>]: delimiter must be a single character in /home/aguiasti/public_html/escritoriovirtual/newsletter/admin/functions/subscribers_import.php on line 710
+[24-Jul-2010 14:31:10] PHP Notice:  Undefined variable: extra in /home/aguiasti/public_html/escritoriovirtual/newsletter/admin/functions/settings.php on line 423
+[08-Oct-2010 23:46:56] PHP Notice:  Undefined variable: extra in /home/aguiasti/public_html/escritoriovirtual/newsletter/admin/functions/settings.php on line 423
+[09-Oct-2010 18:44:53] PHP Notice:  Undefined index:  list in /home/aguiasti/public_html/escritoriovirtual/newsletter/admin/functions/subscribers_import.php on line 178
+[07-Nov-2010 00:41:02] PHP Notice:  Undefined variable: extra in /home/aguiasti/public_html/escritoriovirtual/newsletter/admin/functions/settings.php on line 423
+[31-Mar-2011 15:01:30] PHP Notice:  Undefined index:  newsletter in /home/aguiasti/public_html/escritoriovirtual/newsletter/admin/functions/send.php on line 248
+[31-Mar-2011 15:01:30] PHP Notice:  Undefined index:  sendfromname in /home/aguiasti/public_html/escritoriovirtual/newsletter/admin/functions/send.php on line 249
+[31-Mar-2011 15:01:30] PHP Notice:  Undefined index:  sendfromemail in /home/aguiasti/public_html/escritoriovirtual/newsletter/admin/functions/send.php on line 250
+[31-Mar-2011 15:17:52] PHP Notice:  Undefined index:  newsletter in /home/aguiasti/public_html/escritoriovirtual/newsletter/admin/functions/send.php on line 248
+[31-Mar-2011 15:17:52] PHP Notice:  Undefined index:  sendfromname in /home/aguiasti/public_html/escritoriovirtual/newsletter/admin/functions/send.php on line 249
+[31-Mar-2011 15:17:52] PHP Notice:  Undefined index:  sendfromemail in /home/aguiasti/public_html/escritoriovirtual/newsletter/admin/functions/send.php on line 250
+[31-Mar-2011 15:21:27] PHP Fatal error:  MySQL server has gone away in /home/aguiasti/public_html/escritoriovirtual/newsletter/admin/functions/api/newsletters.php on line 380
+[02-Apr-2011 19:19:24] PHP Notice:  Undefined index:  SendStartTime in /home/aguiasti/public_html/escritoriovirtual/newsletter/admin/functions/send.php on line 150
+[02-Apr-2011 19:19:24] PHP Notice:  Undefined index:  SendSize in /home/aguiasti/public_html/escritoriovirtual/newsletter/admin/functions/send.php on line 154
+[02-Apr-2011 19:19:25] PHP Notice:  Undefined index:  EmailResults in /home/aguiasti/public_html/escritoriovirtual/newsletter/admin/functions/send.php on line 226
+[02-Apr-2011 19:19:25] PHP Notice:  Undefined index:  success in /home/aguiasti/public_html/escritoriovirtual/newsletter/admin/functions/send.php on line 226
+[02-Apr-2011 19:19:25] PHP Notice:  Undefined index:  failure in /home/aguiasti/public_html/escritoriovirtual/newsletter/admin/functions/send.php on line 227
+[02-Apr-2011 19:19:25] PHP Fatal error:  Unsupported operand types in /home/aguiasti/public_html/escritoriovirtual/newsletter/admin/functions/send.php on line 227
+[02-Apr-2011 19:19:30] PHP Notice:  Undefined index:  SendStartTime in /home/aguiasti/public_html/escritoriovirtual/newsletter/admin/functions/send.php on line 150
+[02-Apr-2011 19:19:30] PHP Notice:  Undefined index:  SendSize in /home/aguiasti/public_html/escritoriovirtual/newsletter/admin/functions/send.php on line 154
+[02-Apr-2011 19:19:31] PHP Notice:  Undefined index:  EmailResults in /home/aguiasti/public_html/escritoriovirtual/newsletter/admin/functions/send.php on line 226
+[02-Apr-2011 19:19:31] PHP Notice:  Undefined index:  success in /home/aguiasti/public_html/escritoriovirtual/newsletter/admin/functions/send.php on line 226
+[02-Apr-2011 19:19:31] PHP Notice:  Undefined index:  failure in /home/aguiasti/public_html/escritoriovirtual/newsletter/admin/functions/send.php on line 227
+[02-Apr-2011 19:19:31] PHP Fatal error:  Unsupported operand types in /home/aguiasti/public_html/escritoriovirtual/newsletter/admin/functions/send.php on line 227
+[02-Apr-2011 19:41:48] PHP Notice:  Undefined index:  SendStartTime in /home/aguiasti/public_html/escritoriovirtual/newsletter/admin/functions/send.php on line 150
+[02-Apr-2011 19:41:48] PHP Notice:  Undefined index:  SendSize in /home/aguiasti/public_html/escritoriovirtual/newsletter/admin/functions/send.php on line 154
+[02-Apr-2011 19:41:49] PHP Notice:  Undefined index:  EmailResults in /home/aguiasti/public_html/escritoriovirtual/newsletter/admin/functions/send.php on line 226
+[02-Apr-2011 19:41:49] PHP Notice:  Undefined index:  success in /home/aguiasti/public_html/escritoriovirtual/newsletter/admin/functions/send.php on line 226
+[02-Apr-2011 19:41:49] PHP Notice:  Undefined index:  failure in /home/aguiasti/public_html/escritoriovirtual/newsletter/admin/functions/send.php on line 227
+[02-Apr-2011 19:41:49] PHP Fatal error:  Unsupported operand types in /home/aguiasti/public_html/escritoriovirtual/newsletter/admin/functions/send.php on line 227
+[02-Apr-2011 19:42:02] PHP Notice:  Undefined index:  SendStartTime in /home/aguiasti/public_html/escritoriovirtual/newsletter/admin/functions/send.php on line 150
+[02-Apr-2011 19:42:02] PHP Notice:  Undefined index:  SendSize in /home/aguiasti/public_html/escritoriovirtual/newsletter/admin/functions/send.php on line 154
+[02-Apr-2011 19:42:03] PHP Notice:  Undefined index:  EmailResults in /home/aguiasti/public_html/escritoriovirtual/newsletter/admin/functions/send.php on line 226
+[02-Apr-2011 19:42:03] PHP Notice:  Undefined index:  success in /home/aguiasti/public_html/escritoriovirtual/newsletter/admin/functions/send.php on line 226
+[02-Apr-2011 19:42:03] PHP Notice:  Undefined index:  failure in /home/aguiasti/public_html/escritoriovirtual/newsletter/admin/functions/send.php on line 227
+[02-Apr-2011 19:42:03] PHP Fatal error:  Unsupported operand types in /home/aguiasti/public_html/escritoriovirtual/newsletter/admin/functions/send.php on line 227
+[02-Apr-2011 19:42:13] PHP Notice:  Undefined index:  SendStartTime in /home/aguiasti/public_html/escritoriovirtual/newsletter/admin/functions/send.php on line 150
+[02-Apr-2011 19:42:13] PHP Notice:  Undefined index:  SendSize in /home/aguiasti/public_html/escritoriovirtual/newsletter/admin/functions/send.php on line 154
+[02-Apr-2011 19:42:14] PHP Notice:  Undefined index:  EmailResults in /home/aguiasti/public_html/escritoriovirtual/newsletter/admin/functions/send.php on line 226
+[02-Apr-2011 19:42:14] PHP Notice:  Undefined index:  success in /home/aguiasti/public_html/escritoriovirtual/newsletter/admin/functions/send.php on line 226
+[02-Apr-2011 19:42:14] PHP Notice:  Undefined index:  failure in /home/aguiasti/public_html/escritoriovirtual/newsletter/admin/functions/send.php on line 227
+[02-Apr-2011 19:42:14] PHP Fatal error:  Unsupported operand types in /home/aguiasti/public_html/escritoriovirtual/newsletter/admin/functions/send.php on line 227
+[31-May-2012 15:36:30] PHP Notice:  Undefined variable: extra in /home/aguiasti/public_html/escritoriovirtual/newsletter/admin/functions/settings.php on line 423
+[06-Apr-2013 01:45:36] PHP Notice:  Undefined variable: extra in /home/redeseit/public_html/newsletter/admin/functions/settings.php on line 423
+[06-Apr-2013 01:45:36] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/redeseit/public_html/newsletter/admin/functions/settings.php:423) in /home/redeseit/public_html/newsletter/admin/functions/sendstudio_functions.php on line 460
+[06-Apr-2013 01:46:36] PHP Notice:  Undefined variable: extra in /home/redeseit/public_html/newsletter/admin/functions/settings.php on line 423
+[06-Apr-2013 01:46:36] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/redeseit/public_html/newsletter/admin/functions/settings.php:423) in /home/redeseit/public_html/newsletter/admin/functions/sendstudio_functions.php on line 460
+[06-Apr-2013 01:46:41] PHP Notice:  Undefined variable: extra in /home/redeseit/public_html/newsletter/admin/functions/settings.php on line 423
+[06-Apr-2013 01:46:41] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/redeseit/public_html/newsletter/admin/functions/settings.php:423) in /home/redeseit/public_html/newsletter/admin/functions/sendstudio_functions.php on line 460
+[06-Apr-2013 01:54:31] PHP Notice:  Undefined variable: extra in /home/redeseit/public_html/newsletter/admin/functions/settings.php on line 423
+[06-Apr-2013 01:54:31] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/redeseit/public_html/newsletter/admin/functions/settings.php:423) in /home/redeseit/public_html/newsletter/admin/functions/sendstudio_functions.php on line 460
+[06-Apr-2013 01:55:58] PHP Notice:  Undefined variable: extra in /home/redeseit/public_html/newsletter/admin/functions/settings.php on line 423
+[06-Apr-2013 01:55:58] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/redeseit/public_html/newsletter/admin/functions/settings.php:423) in /home/redeseit/public_html/newsletter/admin/functions/sendstudio_functions.php on line 460
+[06-Apr-2013 01:56:06] PHP Notice:  Undefined variable: extra in /home/redeseit/public_html/newsletter/admin/functions/settings.php on line 423
+[06-Apr-2013 01:56:06] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/redeseit/public_html/newsletter/admin/functions/settings.php:423) in /home/redeseit/public_html/newsletter/admin/functions/sendstudio_functions.php on line 460
+[06-Apr-2013 01:56:15] PHP Notice:  Undefined variable: extra in /home/redeseit/public_html/newsletter/admin/functions/settings.php on line 423
+[06-Apr-2013 01:56:15] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/redeseit/public_html/newsletter/admin/functions/settings.php:423) in /home/redeseit/public_html/newsletter/admin/functions/sendstudio_functions.php on line 460
+[06-Apr-2013 02:49:06] PHP Notice:  Undefined variable: extra in /home/redeseit/public_html/newsletter/admin/functions/settings.php on line 423
+[06-Apr-2013 02:49:06] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/redeseit/public_html/newsletter/admin/functions/settings.php:423) in /home/redeseit/public_html/newsletter/admin/functions/sendstudio_functions.php on line 460
+[17-Apr-2013 23:29:28] PHP Notice:  Undefined variable: extra in /home/redeseit/public_html/newsletter/admin/functions/settings.php on line 423
+[17-Apr-2013 23:29:28] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/redeseit/public_html/newsletter/admin/functions/settings.php:423) in /home/redeseit/public_html/newsletter/admin/functions/sendstudio_functions.php on line 460
+[02-May-2013 11:05:25] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 11:05:25] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 11:05:27] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 11:05:27] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 11:05:33] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 11:05:33] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 11:05:38] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 11:05:38] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 11:06:24] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 11:06:24] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 11:06:30] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 11:06:30] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 11:06:31] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 11:06:31] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 11:06:31] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 11:06:31] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 11:06:41] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 11:06:41] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 11:06:47] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 11:06:47] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 11:28:25] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 11:28:25] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 12:05:30] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 12:05:30] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 14:13:32] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 14:13:32] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 14:13:32] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 14:13:32] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 14:13:32] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 14:13:32] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 14:14:16] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 14:14:16] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 14:14:19] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 14:14:19] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 14:23:26] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 14:23:26] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 14:52:06] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 14:52:06] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 14:52:10] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 14:52:10] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 14:52:10] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 14:52:10] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 14:52:10] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 14:52:10] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 14:53:03] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 14:53:03] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 14:53:09] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 14:53:09] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 14:55:04] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 14:55:04] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 14:55:09] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 14:55:09] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 14:55:22] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 14:55:22] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 14:55:24] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 14:55:24] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 14:55:47] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 14:55:47] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 14:56:47] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 14:56:47] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 17:32:35] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 17:32:35] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 17:32:43] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 17:32:43] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 17:32:48] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 17:32:48] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 17:32:50] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 17:32:50] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 17:33:03] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 17:33:03] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 17:33:19] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 17:33:19] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 17:33:23] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 17:33:23] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 17:33:26] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 17:33:26] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 17:33:42] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 17:33:42] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 17:34:58] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 17:34:58] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 17:35:00] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 17:35:00] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 17:35:03] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 17:35:03] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 17:35:28] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 17:35:28] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 17:35:32] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 17:35:32] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 17:35:32] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 17:35:32] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 17:35:33] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 17:35:33] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 17:35:46] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 17:35:46] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 17:35:49] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 17:35:49] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 17:40:15] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 17:40:15] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 17:40:21] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 17:40:21] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 17:40:31] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 17:40:31] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 17:40:34] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 17:40:34] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 17:40:47] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 17:40:47] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 17:43:35] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 17:43:35] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 17:50:19] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 17:50:19] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 17:50:51] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 17:50:51] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 17:50:59] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 17:50:59] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 17:51:10] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 17:51:10] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 17:51:10] PHP Notice:  Undefined variable: extra in /home/redeseit/public_html/newsletter/admin/functions/settings.php on line 423
+[02-May-2013 17:51:10] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/redeseit/public_html/newsletter/admin/functions/settings.php:423) in /home/redeseit/public_html/newsletter/admin/functions/sendstudio_functions.php on line 460
+[02-May-2013 17:51:21] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 17:51:21] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 17:51:25] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 17:51:25] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 17:52:38] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 17:52:38] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 17:52:48] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 17:52:48] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 17:52:52] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 17:52:52] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 17:53:02] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 17:53:02] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 17:53:06] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 17:53:06] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 17:53:11] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 17:53:11] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 17:53:20] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 17:53:20] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 17:53:25] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 17:53:25] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 17:54:23] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 17:54:23] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 17:54:28] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 17:54:28] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 17:54:32] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 17:54:32] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 17:54:37] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 17:54:37] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 17:54:40] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 17:54:40] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 17:54:48] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 17:54:48] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 17:54:53] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 17:54:53] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 17:54:57] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 17:54:57] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 17:55:02] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 17:55:02] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 17:55:20] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 17:55:20] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 17:55:20] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 17:55:20] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 17:55:26] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 17:55:26] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 17:55:32] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 17:55:32] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 17:55:36] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 17:55:36] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 17:55:46] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 17:55:46] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 17:56:01] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 17:56:01] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 17:56:02] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 17:56:02] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 17:56:03] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 17:56:03] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 17:56:04] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 17:56:04] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 18:03:19] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 18:03:19] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 18:03:21] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 18:03:21] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 18:03:37] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 18:03:37] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 18:03:38] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 18:03:38] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 18:03:44] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 18:03:44] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 18:03:55] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 18:03:55] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 18:04:05] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 18:04:05] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 18:04:09] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 18:04:09] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 18:06:16] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 18:06:16] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 18:06:23] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 18:06:23] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 18:06:29] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 18:06:29] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 18:06:32] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 18:06:32] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 18:06:36] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 18:06:36] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 18:07:01] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 18:07:01] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 18:07:54] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 18:07:54] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 18:07:55] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 18:07:55] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 18:07:55] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 18:07:55] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 18:08:57] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 18:08:57] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 18:09:00] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 18:09:00] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 18:26:24] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 18:26:24] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 18:49:23] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 18:49:23] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[02-May-2013 18:49:25] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[02-May-2013 18:49:25] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 11:14:38] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 11:14:38] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 11:14:42] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 11:14:42] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 11:14:49] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 11:14:49] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 11:14:49] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 11:14:49] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 11:16:21] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 11:16:21] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 11:16:26] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 11:16:26] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 11:16:58] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 11:16:58] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 11:17:05] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 11:17:05] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 11:17:06] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 11:17:06] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 11:17:30] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 11:17:30] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 11:17:41] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 11:17:41] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 11:17:48] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 11:17:48] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 11:18:18] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 11:18:18] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 11:18:24] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 11:18:24] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 11:18:27] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 11:18:27] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 11:18:32] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 11:18:32] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 11:18:32] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 11:18:32] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 11:19:02] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 11:19:02] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 11:19:07] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 11:19:07] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 11:22:13] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 11:22:13] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 11:22:20] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 11:22:20] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 11:22:27] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 11:22:27] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 11:22:27] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 11:22:27] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 11:22:33] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 11:22:33] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 11:27:06] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 11:27:06] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 11:27:06] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 11:27:06] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 11:27:08] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 11:27:08] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 11:27:15] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 11:27:15] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 11:30:19] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 11:30:19] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 11:30:25] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 11:30:25] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 11:30:25] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 11:30:25] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 11:30:34] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 11:30:34] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 11:30:34] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 11:30:34] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 11:30:41] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 11:30:41] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 11:30:48] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 11:30:48] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 11:30:57] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 11:30:57] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 11:37:06] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 11:37:06] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 11:37:52] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 11:37:52] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 11:38:15] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 11:38:15] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 11:38:24] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 11:38:24] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 11:38:28] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 11:38:28] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 11:38:34] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 11:38:34] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 11:38:38] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 11:38:38] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 11:39:10] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 11:39:10] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 11:39:52] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 11:39:52] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 11:40:09] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 11:40:09] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 11:40:13] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 11:40:13] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 11:40:13] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 11:40:13] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 11:40:14] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 11:40:14] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 11:40:20] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 11:40:20] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 11:40:32] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 11:40:32] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 11:41:42] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 11:41:42] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:02:21] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:02:21] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:02:33] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:02:33] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:02:34] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:02:34] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:02:34] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:02:34] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:02:49] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:02:49] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:02:51] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:02:51] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:03:02] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:03:02] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:04:44] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:04:44] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:04:54] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:04:54] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:04:55] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:04:55] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:04:55] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:04:55] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:05:32] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:05:32] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:05:32] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:05:32] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:05:39] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:05:39] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:05:39] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:05:39] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:05:44] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:05:44] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:05:47] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:05:47] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:05:47] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:05:47] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:05:47] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:05:47] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:05:57] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:05:57] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:06:01] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:06:01] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:06:09] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:06:10] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:06:15] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:06:15] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:06:16] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:06:16] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:06:20] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:06:20] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:06:21] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:06:21] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:06:26] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:06:26] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:06:28] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:06:28] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:06:28] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:06:28] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:06:29] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:06:29] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:06:46] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:06:46] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:06:51] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:06:51] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:06:52] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:06:52] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:06:55] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:06:55] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:07:00] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:07:00] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:07:30] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:07:30] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:09:14] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:09:14] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:10:08] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:10:08] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:10:34] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:10:34] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:10:38] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:10:38] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:10:41] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:10:41] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:10:42] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:10:42] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:10:47] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:10:47] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:10:54] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:10:54] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:10:55] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:10:55] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:10:59] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:10:59] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:11:30] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:11:30] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:11:31] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:11:31] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:11:34] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:11:34] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:11:39] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:11:39] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:11:41] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:11:41] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:11:54] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:11:54] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:11:59] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:11:59] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:12:00] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:12:00] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:12:08] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:12:08] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:12:13] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:12:13] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:12:14] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:12:14] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:12:17] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:12:17] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:12:21] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:12:21] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:12:54] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:12:54] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:12:58] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:12:58] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:12:59] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:12:59] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:13:03] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:13:03] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:13:04] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:13:04] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:13:08] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:13:08] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:13:13] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:13:13] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:13:16] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:13:16] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:13:23] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:13:23] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:13:29] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:13:29] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:13:33] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:13:33] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:13:34] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:13:34] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:14:07] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:14:07] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:14:17] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:14:17] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:14:18] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:14:18] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:14:20] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:14:20] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:14:20] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:14:20] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:15:04] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:15:04] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:15:08] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:15:08] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:15:12] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:15:12] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:15:14] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:15:14] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:15:30] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:15:30] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:15:43] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:15:43] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:15:47] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:15:47] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:15:50] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:15:50] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:16:05] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:16:05] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:16:17] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:16:17] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:16:17] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:16:17] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:16:18] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:16:18] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:16:28] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:16:28] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:16:32] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:16:32] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:16:33] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:16:33] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:16:39] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:16:39] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:16:50] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:16:50] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:16:53] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:16:53] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:16:56] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:16:56] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:17:06] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:17:06] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:17:10] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:17:10] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:17:14] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:17:14] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:17:17] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:17:17] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:17:22] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:17:22] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:17:22] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:17:22] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:17:33] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:17:33] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:17:36] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:17:36] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:17:37] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:17:37] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:17:38] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:17:38] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:17:38] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:17:38] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:19:32] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:19:32] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:19:36] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:19:36] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 12:19:39] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 12:19:39] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 14:18:35] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 14:18:35] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 14:18:41] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 14:18:41] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 23:37:43] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 23:37:43] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 23:37:48] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 23:37:48] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 23:38:02] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 23:38:02] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 23:38:03] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 23:38:03] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 23:38:12] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 23:38:12] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 23:38:16] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 23:38:16] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 23:38:38] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 23:38:38] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 23:38:44] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 23:38:44] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 23:38:47] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 23:38:47] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 23:38:52] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 23:38:52] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 23:38:55] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 23:38:55] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 23:39:00] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 23:39:00] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 23:39:03] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 23:39:03] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 23:42:06] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 23:42:06] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 23:42:07] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 23:42:07] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 23:43:02] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 23:43:02] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 23:43:07] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 23:43:07] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 23:43:10] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 23:43:10] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 23:43:12] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 23:43:12] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 23:43:26] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 23:43:26] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 23:43:30] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 23:43:30] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 23:43:31] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 23:43:31] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[03-May-2013 23:43:32] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[03-May-2013 23:43:32] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 17:09:08] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 17:09:08] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 17:09:11] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 17:09:11] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 17:17:01] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 17:17:01] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 17:17:01] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 17:17:01] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 17:17:03] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 17:17:03] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 17:17:06] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 17:17:06] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 17:17:07] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 17:17:07] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 17:17:13] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 17:17:13] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 17:17:14] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 17:17:14] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 17:17:16] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 17:17:16] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 17:17:18] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 17:17:18] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 17:18:11] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 17:18:11] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 17:18:12] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 17:18:12] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 17:18:12] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 17:18:12] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 17:18:13] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 17:18:13] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 17:18:19] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 17:18:19] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 17:18:20] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 17:18:20] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 17:18:28] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 17:18:28] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 17:18:29] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 17:18:29] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 17:18:32] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 17:18:32] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 17:18:33] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 17:18:33] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 17:18:37] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 17:18:37] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 17:18:39] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 17:18:39] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 17:18:41] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 17:18:41] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 17:18:42] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 17:18:42] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 17:18:47] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 17:18:47] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 17:18:48] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 17:18:48] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 17:18:58] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 17:18:58] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 17:18:59] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 17:18:59] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 17:19:03] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 17:19:03] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 17:19:04] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 17:19:04] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 17:19:06] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 17:19:06] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 17:19:08] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 17:19:08] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 17:19:10] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 17:19:10] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 17:19:12] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 17:19:12] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 17:19:18] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 17:19:18] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 17:19:19] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 17:19:19] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 17:19:23] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 17:19:23] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 17:19:24] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 17:19:24] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 17:19:24] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 17:19:24] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 17:19:25] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 17:19:25] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 17:19:25] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 17:19:25] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 17:19:26] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 17:19:26] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 17:19:28] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 17:19:28] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 17:19:32] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 17:19:32] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 17:19:36] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 17:19:36] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 17:19:37] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 17:19:37] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 17:19:40] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 17:19:40] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 17:19:41] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 17:19:41] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 17:19:42] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 17:19:42] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 17:19:43] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 17:19:43] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 17:19:50] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 17:19:50] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 17:19:51] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 17:19:51] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 17:19:54] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 17:19:54] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 17:19:56] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 17:19:56] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 17:20:01] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 17:20:01] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 17:20:02] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 17:20:02] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 17:20:08] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 17:20:08] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 17:20:09] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 17:20:09] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 17:20:11] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 17:20:11] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 17:20:23] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 17:20:23] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 17:20:25] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 17:20:25] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 17:20:26] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 17:20:26] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 17:20:28] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 17:20:28] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 17:20:29] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 17:20:29] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 17:20:31] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 17:20:31] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 17:20:33] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 17:20:33] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 17:20:41] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 17:20:41] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 19:41:58] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 19:41:58] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 19:42:09] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 19:42:09] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 19:42:22] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 19:42:22] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 19:42:24] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 19:42:24] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 19:42:26] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 19:42:26] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 19:42:49] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 19:42:49] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 19:42:51] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 19:42:51] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 19:42:57] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 19:42:57] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 19:42:59] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 19:42:59] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 19:43:03] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 19:43:03] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 19:43:04] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 19:43:04] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[06-May-2013 19:43:05] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[06-May-2013 19:43:05] PHP Warning:  Module 'pgsql' already loaded in Unknown on line 0
+[30-Nov-2013 14:38:38] PHP Notice:  Undefined variable: extra in /home/redeseit/public_html/newsletter/admin/functions/settings.php on line 423
+[30-Nov-2013 14:38:38] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/redeseit/public_html/newsletter/admin/functions/settings.php:423) in /home/redeseit/public_html/newsletter/admin/functions/sendstudio_functions.php on line 460

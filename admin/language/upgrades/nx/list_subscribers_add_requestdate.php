@@ -1,0 +1,14 @@
+<?php
+if (!class_exists('Upgrade_API')) {
+	exit();
+}
+
+class list_subscribers_add_requestdate extends Upgrade_API
+{
+	function RunUpgrade()
+	{
+		$query = 'alter table ' . SENDSTUDIO_TABLEPREFIX . 'list_subscribers add column requestdate int default null';
+		$result = $this->Db->Query($query);
+		return $result;
+	}
+}

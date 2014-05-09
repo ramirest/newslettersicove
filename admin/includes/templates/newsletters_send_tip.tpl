@@ -1,0 +1,1 @@
+<span class="HelpText" onMouseOut="HideHelp('%%GLOBAL_TipName%%');" onMouseOver="ShowQuickHelp('%%GLOBAL_TipName%%', '%%LNG_AlreadySentTo_Heading%%', '%%GLOBAL_LastSentTip%%');">%%GLOBAL_LastSent%%</span><br /><div id="%%GLOBAL_TipName%%" style="display: none;"></div>

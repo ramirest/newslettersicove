@@ -1,0 +1,24 @@
+.de_popupitem_icon_disabled {
+	width: 21px;
+	height: 20px;
+	cursor: pointer;
+	-moz-opacity: 0.30;
+}
+
+.de_TB_Button_Disabled {
+	-moz-opacity: 0.30;
+}
+
+
+/* Used for popup menu's when menu option icon is disabled.
+Example, when right clicking and cut, copy or paste are not enabled */
+.de_icon_disabled {
+	-moz-opacity: 0.30;
+}
+
+.de_TB_ButtonDrop_Disabled {
+	border: 1px solid #EAE8E4;
+	-moz-opacity: 0.30;
+}
+
+

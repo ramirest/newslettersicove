@@ -1,0 +1,732 @@
+SendStudioSession|O:7:"Session":2:{s:11:"SessionName";s:17:"SendStudioSession";s:13:"_ExternalVars";a:7:{s:11:"UserDetails";O:8:"User_API":45:{s:6:"userid";s:1:"1";s:8:"username";s:5:"admin";s:8:"fullname";s:25:"Central de Relacionamento";s:12:"emailaddress";s:25:"contato@redeseitec.com.br";s:6:"status";b:1;s:5:"admin";b:1;s:9:"admintype";s:1:"a";s:9:"listadmin";b:1;s:13:"listadmintype";s:1:"a";s:13:"templateadmin";N;s:9:"useradmin";N;s:17:"templateadmintype";s:1:"a";s:15:"editownsettings";b:0;s:11:"permissions";a:0:{}s:8:"settings";a:5:{s:10:"LoginCheck";s:14:"15329a53108227";s:8:"Calendar";a:0:{}s:13:"CalendarDates";a:7:{s:5:"opens";s:0:"";s:6:"clicks";s:0:"";s:8:"forwards";s:0:"";s:7:"bounces";s:0:"";s:12:"unsubscribes";s:0:"";s:11:"subscribers";a:4:{s:10:"subscribes";s:0:"";s:12:"unsubscribes";s:0:"";s:7:"bounces";s:0:"";s:8:"forwards";s:0:"";}s:11:"usersummary";s:0:"";}s:15:"DisplaySettings";a:1:{s:12:"NumberToShow";i:200;}s:20:"ShowFilteringOptions";i:2;}s:8:"password";N;s:12:"usertimezone";s:8:"GMT-3:00";s:10:"textfooter";s:0:"";s:10:"htmlfooter";s:0:"";s:12:"DefaultOrder";s:8:"username";s:16:"DefaultDirection";s:2:"up";s:10:"ValidSorts";a:2:{s:8:"username";s:8:"UserName";s:4:"name";s:8:"FullName";}s:10:"AdminTypes";a:6:{s:1:"a";s:19:"SystemAdministrator";s:1:"l";s:17:"ListAdministrator";s:1:"n";s:23:"NewsletterAdministrator";s:1:"t";s:21:"TemplateAdministrator";s:1:"u";s:17:"UserAdministrator";s:1:"c";s:6:"Custom";}s:14:"ListAdminTypes";a:2:{s:1:"a";s:8:"AllLists";s:1:"c";s:6:"Custom";}s:18:"TemplateAdminTypes";a:2:{s:1:"a";s:12:"AllTemplates";s:1:"c";s:6:"Custom";}s:15:"PermissionTypes";a:10:{s:14:"autoresponders";a:4:{i:0;s:6:"create";i:1;s:4:"edit";i:2;s:6:"delete";i:3;s:7:"approve";}s:5:"forms";a:3:{i:0;s:6:"create";i:1;s:4:"edit";i:2;s:6:"delete";}s:11:"newsletters";a:5:{i:0;s:6:"create";i:1;s:4:"edit";i:2;s:6:"delete";i:3;s:7:"approve";i:4;s:4:"send";}s:9:"templates";a:7:{i:0;s:6:"create";i:1;s:4:"edit";i:2;s:6:"delete";i:3;s:7:"approve";i:4;s:6:"import";i:5;s:6:"global";i:6;s:7:"builtin";}s:11:"subscribers";a:6:{i:0;s:3:"add";i:1;s:4:"edit";i:2;s:6:"delete";i:3;s:6:"import";i:4;s:6:"export";i:5;s:6:"banned";}s:5:"lists";a:5:{i:0;s:6:"create";i:1;s:4:"edit";i:2;s:6:"delete";i:3;s:6:"bounce";i:4;s:14:"bouncesettings";}s:12:"customfields";a:3:{i:0;s:6:"create";i:1;s:4:"edit";i:2;s:6:"delete";}s:6:"system";a:3:{i:0;s:6:"system";i:1;s:4:"list";i:2;s:4:"user";}s:10:"statistics";a:4:{i:0;s:10:"newsletter";i:1;s:4:"user";i:2;s:13:"autoresponder";i:3;s:4:"list";}s:4:"user";a:1:{i:0;s:4:"smtp";}}s:6:"access";a:2:{s:5:"lists";a:1:{i:0;s:2:"15";}s:9:"templates";a:1:{i:0;s:1:"6";}}s:8:"maxlists";s:1:"0";s:18:"unlimitedmaxemails";i:1;s:9:"maxemails";s:1:"0";s:8:"permonth";s:1:"0";s:7:"perhour";s:1:"0";s:8:"infotips";b:1;s:10:"smtpserver";s:0:"";s:12:"smtpusername";s:0:"";s:12:"smtppassword";s:0:"";s:8:"smtpport";i:25;s:10:"createdate";i:1272174282;s:12:"lastloggedin";i:1395238193;s:14:"forgotpasscode";s:32:"f5d938c48b63ab191106e4c5b53a5334";s:2:"Db";O:7:"MySQLDb":7:{s:10:"connection";i:0;s:6:"_Error";N;s:11:"_ErrorLevel";i:256;s:8:"QueryLog";N;s:7:"TimeLog";N;s:8:"ErrorLog";N;s:10:"NumQueries";i:11;}s:11:"ConvertDate";O:11:"ConvertDate":2:{s:15:"server_timezone";s:4:"-300";s:13:"user_timezone";s:2:"00";}s:10:"AllFormats";a:3:{s:1:"b";s:11:"TextAndHTML";s:1:"h";s:4:"HTML";s:1:"t";s:4:"Text";}s:8:"textbody";s:0:"";s:8:"htmlbody";s:0:"";}s:13:"PreviewWindow";a:3:{s:11:"htmlcontent";s:17653:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>SEITEC - Informática e Conhecimento</title>
+<link rel="stylesheet" type="text/css" href="../../../fonts.googleapis.com/css@family=Open+Sans_3A400,400italic,600,600italic,700,700italic,800,800italic_7COpen+Sans+Condensed_3A700">
+</head>
+
+<body style="font-family: Verdana;">
+
+<!--Table Start-->
+<table class="contentbg" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td bgcolor="#FFFFFF" valign="top">
+
+<!--Header Start-->
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="600">
+<tbody>
+<tr>
+<td align="left" height="105" valign="top" width="300">
+
+<!--Logo Start-->
+
+<table border="0" cellpadding="0" cellspacing="0" width="186">
+<tbody>
+<tr>
+<td bgcolor="#F37435" valign="top">
+<a href="#"><img src="http://newsletter.redeseitec.com.br/admin/temp/templates/6/seitec/logo.png" alt="logo" style="display:block" height="111" width="186"/></a></td>
+</tr>
+</tbody>
+</table>
+<!--Logo End-->
+
+</td>
+<td valign="top" width="300">
+
+<!--Social and View Start-->
+
+<table border="0" cellpadding="0" cellspacing="0" width="300">
+<tbody>
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td style="padding-top:15px;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td width="55">
+ 
+
+</td>
+<td>
+<a href="http://www.facebook.com/redeseitec"><img src="http://newsletter.redeseitec.com.br/admin/temp/templates/6/seitec/social-icon-1.png" alt="social icon" style="display:block;" height="45" width="45"/></a></td>
+<td style="padding-left:5px;">
+ 
+
+</td>
+<td style="padding-left:5px;">
+ 
+
+</td>
+<td style="padding-left:5px;">
+ 
+
+</td>
+<td style="padding-left:5px;">
+ 
+
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td class="headinfo" style="padding-top:8px;" align="right">
+<font color="#999999">
+</font><font color="#cccccc"><span style="font-size:10pt"><font color="#999999"><span style="font-size:10pt">Se não conseguir visualizar, <a href="%%webversion%%" class="header">leia online</a></span></font></span></font></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--Social and View End-->
+
+</td>
+</tr>
+</tbody>
+</table>
+<!--Header End-->
+
+</td>
+</tr>
+<tr>
+<td bgcolor="#0098DA" valign="top">
+
+<!--Main Text Start-->
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="600">
+<tbody>
+<tr>
+<td class="maintext" style="padding:20px 30px;" align="center" valign="top">
+<font color="#ffffff"><span style="font-size:24pt;">Seja bem-vindo!<br/></span></font></td>
+</tr>
+</tbody>
+</table>
+<!--Main Text End-->
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="600">
+<tbody>
+<tr>
+<td align="center" valign="top">
+<a href="#"><img src="http://newsletter.redeseitec.com.br/admin/temp/templates/6/seitec/main-image.jpg" alt="main image" style="display:block;" height="465" width="600"/></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td bgcolor="#e56c19" valign="top">
+
+<!--Promotion Start-->
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="600">
+<tbody>
+<tr>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td style="padding-top:40px;padding-bottom:35px;" valign="top" width="257">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td style="padding-right:20px;" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td class="textwhite">
+<p><font color="#ffffff">NOSSA MISSÃO:</font></p><font color="#ffffff">
+</font><p><font color="#ffffff">Ofertar
+ao mercado a prestação de serviços de
+informática, com as mais novas tecnologias,<br/>
+
+gerando encantamento em nossos clientes com
+soluções rápidas e inovadoras. Manter a
+equipe qualificada e<br/>
+satisfeita, garantindo a sustentabilidade do negócio. </font><br/>
+</p></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td valign="top">
+<img src="http://newsletter.redeseitec.com.br/admin/temp/templates/6/seitec/sub-image-1.png" alt="image" style="display:block;" height="385" width="343"/></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--Promotion End-->
+
+</td>
+</tr>
+<tr>
+  <td valign="top">
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="600">
+    <tbody>
+      <tr>
+        <td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+          <tbody>
+            <tr>
+              <td style="padding-top:40px;padding-bottom:35px;" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+                <tbody>
+                  <tr>
+                    <td style="padding-right:20px;" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+                      <tbody>
+                        <tr>
+                          <td class="textwhite">
+<p><font color="#000000">A SEITEC possui profissionais capacitados com mais de<br/>
+                              10 anos de experiência no mercado preparados para lhe atender. <br/>
+                              Prestamos serviços de assistência técnica, redes internas e VPN, websites, sistemas de gestão comercial, assessoria e consultoria, entre outros.<br/>
+                              Você e sua empresa contam com nosso atendimento personalizado por telefone ou skype, suporte técnico
+                              remoto ou presencial, atendendo sua necessidade, para que você se concentre no que  é mais importante para você e deixe a TI por nossa conta.</font><br/>
+                              </p></td>
+                          </tr>
+                        </tbody>
+                      </table>
+</td>
+                    </tr>
+                  </tbody>
+              </table>
+</td>
+              </tr>
+          </tbody>
+        </table>
+</td>
+      </tr>
+    </tbody>
+  </table>
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+<!--Product Download Start-->
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="600">
+<tbody>
+<tr>
+<td style="padding:35px 0px;" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td valign="top" width="285">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td valign="top">
+<a href="#"><img src="http://newsletter.redeseitec.com.br/admin/temp/templates/6/seitec/sub-image-2.png" alt="sub image" style="display:block;" height="135" width="285"/></a></td>
+</tr>
+<tr>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td class="headingdark" style="padding-top:5px;" valign="top">
+<font color="#808080"><span style="font-size:18pt;">
+Assistência técnica especializada</span></font></td>
+</tr>
+<tr>
+<td class="textdark" style="padding-top:10px;padding-bottom:20px;" valign="top">
+<font color="#808080">- Formatação e reconfiguração<br/>
+
+- Remoção de
+vírus e instalação de
+antivírus<br/>
+- Instalação de Windows, Pacote Office, programas essenciais<br/>
+- Backup de arquivos e recuperação de dados<br/>
+- Configuração de impressoras<br/>
+- Assistência remota e presencial<br/>
+- Manutenção preventiva e corretiva</font><br/></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td width="30">
+ 
+
+</td>
+<td valign="top" width="285">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td valign="top">
+<a href="#"><img src="http://newsletter.redeseitec.com.br/admin/temp/templates/6/seitec/sub-image-3.png" alt="sub image" style="display:block;" height="135" width="285"/></a></td>
+</tr>
+<tr>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td class="headingdark" style="padding-top:5px;" valign="top">
+<font color="#808080"><span style="font-size:18pt">Configuração e manutenção de redes</span></font></td>
+</tr>
+<tr>
+<td class="textdark" style="padding-top:10px;padding-bottom:20px;" valign="top">
+<font color="#808080">- Montamos toda a sua rede, seja ela simples ou <br/>
+estruturada<br/>
+- Configuração de servidores windows e linux<br/>
+- Implementação de firewall para aumentar a segurança<br/>
+de sua rede</font></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--Product Download End-->
+
+</td>
+</tr>
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td bgcolor="#e6ad12" valign="top">
+
+<!--Promotion Start-->
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="600">
+<tbody>
+<tr>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td style="padding-top:30px;padding-bottom:20px;" valign="top" width="315">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td style="padding-right:30px;" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td class="heading">
+<font color="#ffffff"><span style="font-size:18pt;">Sistemas de gestão</span></font></td>
+</tr>
+<tr>
+<td class="textwhite" style="padding-top:6px;">
+<font color="#ffffff"><span style="font-size:10pt;">- Sistema de gestão sob medida para sua empresa<br/>
+- Acesse rapidamente de qualquer lugar e em qualquer<br/>
+dispositivo todas as informações da sua empresa<br/>
+- Sistema homologado para trabalhar com ECF de diversas <br/>
+marcas e modelos<br/>
+- Emissor de NFe<br/>
+- Sistema integrado à  sua loja virtual</span></font></td>
+</tr>
+<tr>
+<td style="padding-top:20px;" align="right">
+ 
+
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td style="padding-top:20px;" valign="top">
+<img src="http://newsletter.redeseitec.com.br/admin/temp/templates/6/seitec/sub-image-4.png" alt="sub image" style="display:block;" height="142" width="285"/></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--Promotion End-->
+
+</td>
+</tr>
+<tr>
+<td bgcolor="#e56c19" valign="top">
+
+<!--Promotion Start-->
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="600">
+<tbody>
+<tr>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td style="padding-top:20px;" valign="top">
+<img src="http://newsletter.redeseitec.com.br/admin/temp/templates/6/seitec/sub-image-5.png" alt="sub image" style="display:block;" height="91" width="285"/></td>
+<td style="padding-top:30px;padding-bottom:20px;" valign="top" width="315">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td style="padding-left:30px;" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td class="heading">
+<font color="#ffffff"><span style="font-size:18pt;">Web sites</span></font></td>
+</tr>
+<tr>
+<td class="textwhite" style="padding-top:6px;">
+<font color="#ffffff"><span style="font-size:10pt">- Criação e hospedagem de sua página na internet<br/>
+- Desenvolvimento de site institucional<br/>
+- Loja virtual com total segurança e comodidade</span></font></td>
+</tr>
+<tr>
+<td style="padding-top:20px;" align="left">
+ 
+
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--Promotion End-->
+
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+<!--Product Start-->
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="600">
+<tbody>
+<tr>
+<td style="padding:30px 0px;" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td class="headingdark" style="padding-bottom:20px;">
+<font color="#808080"><span style="font-size:14pt">Nossos Clientes</span></font></td>
+</tr>
+<tr>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td valign="top" width="285">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td align="center" valign="top">
+<img src="http://newsletter.redeseitec.com.br/admin/temp/templates/6/seitec/product-1.jpg" alt="" style="display:block;" height="180" width="190"/></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td rowspan="3" width="30">
+ 
+
+</td>
+<td valign="top" width="285">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td valign="top">
+<a href="#"><img src="http://newsletter.redeseitec.com.br/admin/temp/templates/6/seitec/product-2.jpg" alt="product" style="display:block;" height="125" width="285"/></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td height="30">
+ 
+
+</td>
+<td>
+ 
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td valign="top">
+<a href="#"><img src="http://newsletter.redeseitec.com.br/admin/temp/templates/6/seitec/product-4.jpg" alt="product" style="display:block;" height="124" width="285"/></a>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td valign="top">
+<a href="#"><img src="http://newsletter.redeseitec.com.br/admin/temp/templates/6/seitec/product-3.jpg" alt="product" style="display:block;" height="78" width="285"/></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--Product End-->
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+<!--Footer Start-->
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td bgcolor="#e56c19" valign="top">
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="600">
+<tbody>
+<tr>
+<td style="padding:20px 0px;" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td valign="top" width="300">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td style="padding-top:6px;" valign="top" width="33">
+<img src="http://newsletter.redeseitec.com.br/admin/temp/templates/6/seitec/footer-icon-2.png" alt="icon" style="display:block;" height="22" width="33"/></td>
+<td style="padding-left:15px;" align="left" valign="top">
+<a href="mailto:contato@redeseitec.com.br" class="footertop"><span style="font-size:18pt">Fale conosco</span></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td valign="top" width="300">
+<br/></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td bgcolor="#e6ad12" valign="top">
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="600">
+<tbody>
+<tr>
+<td style="padding-bottom:33px;" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td valign="top" width="300">
+<table border="0" cellpadding="0" cellspacing="0" width="300">
+<tbody>
+<tr>
+<td style="padding-top:21px;padding-bottom:17px;" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td style="padding-right:5px;">
+<a href="http://www.facebook.com/redeseitec"><img src="http://newsletter.redeseitec.com.br/admin/temp/templates/6/seitec/social-icon-footer-1.png" alt="social media" style="display:block;" height="45" width="45"/></a></td>
+<td style="padding-right:5px;">
+ 
+
+</td>
+<td style="padding-right:5px;">
+ 
+
+</td>
+<td style="padding-right:5px;">
+ 
+
+</td>
+<td>
+ 
+
+</td>
+<td width="55">
+ 
+
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="font-size:10pt;" class="textwhite" valign="top">
+<font color="#ffffff"><span style="font-size:10pt"><span style="font-family:Verdana">Rua Argel, 326 - Bethânia<br/>
+Ipatinga - MG - 35164-070<br/>
+3825-8029 - <span class="footerlink">contato@redeseitec.com.br</span></span></span></font></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td style="padding-top:33px;" valign="top" width="300">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td class="footerheading">
+<font color="#ffffff"><span style="font-size:14pt;"><span style="font-family:Verdana">Newsletter</span></span></font></td>
+</tr>
+<tr>
+<td style="padding-top:8px;" class="headinfo" valign="top">
+<font color="#ffffff"><span style="font-size:10pt">Você
+está recebendo este email por fazer parte de nossa lista de
+contatos ou de alguns de nossos parceiros, no entanto, somos totalmente
+contra a prática de spam, sendo assim, caso não
+queira mais receber nossos informativos, utilize o link abaixo para
+retirar seu email de nossa base de dados:</span><br/>
+<a class="textwhite" href="%%unsubscribelink%%"><span style="font-size:10pt">Cancelar recebimento de emails.</span></a></font></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--Footer End-->
+
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--Table End-->
+
+
+
+
+
+
+
+
+
+
+
+</body></html>
+";s:11:"textcontent";s:0:"";s:6:"format";s:1:"b";}s:10:"ImportInfo";a:2:{s:4:"List";i:19;s:10:"ListFormat";s:1:"b";}s:13:"ImportResults";a:12:{s:10:"duplicates";i:0;s:7:"success";i:0;s:7:"updates";i:0;s:8:"failures";i:0;s:12:"unsubscribes";i:0;s:4:"bans";i:0;s:4:"bads";i:0;s:15:"duplicateemails";a:0:{}s:18:"unsubscribedemails";a:0:{}s:12:"failedemails";a:0:{}s:12:"bannedemails";a:0:{}s:7:"baddata";a:0:{}}s:10:"ExportInfo";a:7:{s:4:"List";i:19;s:13:"ExportDetails";a:3:{s:6:"Status";s:1:"a";s:12:"CustomFields";a:1:{i:8;s:0:"";}s:4:"List";s:2:"19";}s:16:"ExportsCompleted";i:2;s:10:"ExportFile";s:43:"export-baee97646ce1cc3f2f95654863c97c53.csv";s:11:"ExportQueue";i:38;s:9:"QueueSize";s:1:"2";s:8:"Settings";a:4:{s:7:"Headers";s:1:"1";s:14:"FieldSeparator";s:1:",";s:15:"FieldEnclosedBy";s:1:""";s:12:"FieldOptions";a:5:{i:1;s:1:"e";i:2;s:1:"f";i:3;s:1:"c";i:4;s:3:"mdy";i:5;s:1:"8";}}}s:11:"CaptchaCode";s:6:"wsqc56";s:4:"Form";a:13:{s:11:"ContactForm";b:0;s:10:"UseCaptcha";s:1:"1";s:22:"SubscriberChangeFormat";b:0;s:8:"FormName";s:8:"Captação";s:10:"FormDesign";s:4:"blue";s:8:"FormType";s:1:"s";s:22:"SubscriberChooseFormat";s:1:"c";s:12:"IncludeLists";a:1:{i:0;s:2:"19";}s:19:"RequireConfirmation";s:1:"1";s:10:"SendThanks";s:1:"1";s:17:"CustomFieldsOrder";a:3:{i:0;s:1:"e";i:1;s:2:"cf";i:2;s:1:"8";}s:12:"CustomFields";a:1:{i:0;s:1:"8";}s:5:"Pages";a:2:{s:11:"ConfirmPage";a:9:{s:4:"html";s:0:"";s:3:"url";s:7:"http://";s:12:"sendfromname";s:25:"Central de Relacionamento";s:13:"sendfromemail";s:25:"contato@redeseitec.com.br";s:12:"replytoemail";s:25:"contato@redeseitec.com.br";s:11:"bounceemail";s:25:"contato@redeseitec.com.br";s:12:"emailsubject";s:25:"Confirm your subscription";s:9:"emailhtml";s:0:"";s:9:"emailtext";s:205:"Thank you for subscribing to our newsletter.
+
+To finalize your subscription, please click on the confirmation link below. Once you've done this, your subscription will be complete.
+
+%%CONFIRMLINK%%
+
+";}s:10:"ThanksPage";a:9:{s:12:"sendfromname";s:25:"Central de Relacionamento";s:13:"sendfromemail";s:25:"contato@redeseitec.com.br";s:12:"replytoemail";s:25:"contato@redeseitec.com.br";s:11:"bounceemail";s:25:"contato@redeseitec.com.br";s:12:"emailsubject";s:34:"Your subscription is now complete.";s:9:"emailhtml";s:276:"
+<html><head></head>
+<body style='font: 12px tahoma'>
+<b>Your subscription is complete</b><br><br>
+Thank you for subscribing to our mailing list. Your subscription is now complete. If you have any questions you can contact us by replying to this email.
+</body>
+</html>
+";s:9:"emailtext";s:156:"Thank you for subscribing to our mailing list.
+
+Your subscription is now complete. If you have any questions you can contact us by replying to this email.";s:4:"html";s:601:"
+<html>
+<head>
+<style>
+body {
+	margin: 0px;
+}
+
+#content {
+	border: 1px solid #EFECBA;
+	width: 300px;
+	height: 150px;
+	background-color: #FBFAE7;
+	padding:20px;
+	top: 50%;
+	left: 50%;
+	position: relative;
+}
+
+#container  {
+	width: 100%;
+	height: 100%;
+	font: 11px tahoma;
+	position: absolute;
+	top: -75px;
+	left: -150px;
+}
+
+</style>
+</head>
+<body>
+<div id="container">
+	<div id="content">
+		<b>Your subscription is now complete.</b><br><br>
+		Thank you for subscribing to our mailing list. Your subscription is now complete.<br><br>
+	</div>
+</div>
+</body>
+</html>
+";s:3:"url";s:7:"http://";}}}}}RequestedFile|s:0:"";imgDir|s:18:"/admin/temp/user/1";wi|i:0;tn|i:1;du|i:0;dd|i:0;dt|i:1;rp|s:0:"";sp|s:0:"";su|s:0:"";ump|s:0:"";scu|i:0;lw|i:0;flashDir|s:18:"/admin/temp/user/1";mediaDir|s:18:"/admin/temp/user/1";linkDir|s:18:"/admin/temp/user/1";name|s:9:"errorhtml";Saveconfirmhtml|b:1;Spellingconfirmhtml|i:0;RemoveTextFormattingconfirmhtml|i:0;FullScreenconfirmhtml|i:0;Boldconfirmhtml|i:0;Underlineconfirmhtml|i:0;Customconfirmhtml|i:0;Italicconfirmhtml|i:0;Strikethroughconfirmhtml|i:0;NumberListconfirmhtml|i:0;BulletListconfirmhtml|i:0;DecreaseIndentconfirmhtml|i:0;IncreaseIndentconfirmhtml|i:0;SuperScriptconfirmhtml|i:0;disableContextMenuconfirmhtml|i:0;SubScriptconfirmhtml|i:0;LeftAlignconfirmhtml|i:0;CenterAlignconfirmhtml|i:0;RightAlignconfirmhtml|i:0;Justifyconfirmhtml|i:0;HorizontalRuleconfirmhtml|i:0;Linkconfirmhtml|i:0;ComboStylesconfirmhtml|b:1;Anchorconfirmhtml|i:0;MailLinkconfirmhtml|i:0;Helpconfirmhtml|b:1;Fontconfirmhtml|i:0;Sizeconfirmhtml|i:0;Formatconfirmhtml|i:0;Copyconfirmhtml|i:0;Cutconfirmhtml|i:0;Pasteconfirmhtml|i:0;Fileconfirmhtml|i:0;Mediaconfirmhtml|b:1;Styleconfirmhtml|i:0;ForeColorconfirmhtml|i:0;BackColorconfirmhtml|i:0;Tableconfirmhtml|i:0;Formconfirmhtml|i:0;Imageconfirmhtml|i:0;Flashconfirmhtml|b:1;Paragraphconfirmhtml|i:0;TextBoxconfirmhtml|i:0;Symbolsconfirmhtml|i:0;Propsconfirmhtml|i:0;Cleanconfirmhtml|i:0;Absoluteconfirmhtml|i:0;Guidelinesconfirmhtml|i:0;EditModeconfirmhtml|i:0;SourceModeconfirmhtml|i:0;PreviewModeconfirmhtml|b:1;fontSizeListconfirmhtml|s:0:"";fontNameListconfirmhtml|s:0:"";maximagewidthconfirmhtml|s:3:"700";maximageheightconfirmhtml|s:3:"400";maxUploadFileSizeconfirmhtml|i:0;tlbmodeconfirmhtml|i:0;setCursorconfirmhtml|i:0;forcePasteWordconfirmhtml|i:0;forcePasteAsTextconfirmhtml|i:0;showLineNumberconfirmhtml|i:0;SingleLineReturnconfirmhtml|i:1;guidelinesOnByDefaultconfirmhtml|i:0;useSmartHistoryconfirmhtml|i:1;docTypeconfirmhtml|i:1;d1confirmhtml|i:0;modeconfirmhtml|s:6:"Simple";spellLangconfirmhtml|s:8:"american";widthconfirmhtml|s:4:"100%";heightconfirmhtml|i:260;sizemodeconfirmhtml|s:3:"off";oldwconfirmhtml|i:0;oldhconfirmhtml|i:0;sPath|s:59:"http://newsletter.redeseitec.com.br/admin/de/skins/default/";loadedFile|s:0:"";popup_color_srcconfirmhtml|s:103:"/admin/de/colormenu.php?name=confirmhtml&sp=http://newsletter.redeseitec.com.br/admin/de/skins/default/";deveditPath|s:46:"/home/redeseit/public_html/newsletter/admin/de";deveditPath1|s:9:"/admin/de";ScriptName|s:27:"/admin/de/class.devedit.php";serverurl|s:35:"http://newsletter.redeseitec.com.br";skinPath|s:14:"skins/default/";skinPath2|s:59:"http://newsletter.redeseitec.com.br/admin/de/skins/default/";doc_root|s:45:"http://newsletter.redeseitec.com.br/admin/de/";useXHTMLconfirmhtml|i:1;userdocroot|s:37:"/home/redeseit/public_html/newsletter";dtconfirmhtml|s:0:"";Saveconfirmemail_html|b:1;Spellingconfirmemail_html|i:0;RemoveTextFormattingconfirmemail_html|i:0;FullScreenconfirmemail_html|i:0;Boldconfirmemail_html|i:0;Underlineconfirmemail_html|i:0;Customconfirmemail_html|i:0;Italicconfirmemail_html|i:0;Strikethroughconfirmemail_html|i:0;NumberListconfirmemail_html|i:0;BulletListconfirmemail_html|i:0;DecreaseIndentconfirmemail_html|i:0;IncreaseIndentconfirmemail_html|i:0;SuperScriptconfirmemail_html|i:0;disableContextMenuconfirmemail_html|i:0;SubScriptconfirmemail_html|i:0;LeftAlignconfirmemail_html|i:0;CenterAlignconfirmemail_html|i:0;RightAlignconfirmemail_html|i:0;Justifyconfirmemail_html|i:0;HorizontalRuleconfirmemail_html|i:0;Linkconfirmemail_html|i:0;ComboStylesconfirmemail_html|b:1;Anchorconfirmemail_html|i:0;MailLinkconfirmemail_html|i:0;Helpconfirmemail_html|b:1;Fontconfirmemail_html|i:0;Sizeconfirmemail_html|i:0;Formatconfirmemail_html|i:0;Copyconfirmemail_html|i:0;Cutconfirmemail_html|i:0;Pasteconfirmemail_html|i:0;Fileconfirmemail_html|i:0;Mediaconfirmemail_html|b:1;Styleconfirmemail_html|i:0;ForeColorconfirmemail_html|i:0;BackColorconfirmemail_html|i:0;Tableconfirmemail_html|i:0;Formconfirmemail_html|i:0;Imageconfirmemail_html|i:0;Flashconfirmemail_html|b:1;Paragraphconfirmemail_html|i:0;TextBoxconfirmemail_html|i:0;Symbolsconfirmemail_html|i:0;Propsconfirmemail_html|i:0;Cleanconfirmemail_html|i:0;Absoluteconfirmemail_html|i:0;Guidelinesconfirmemail_html|i:0;EditModeconfirmemail_html|i:0;SourceModeconfirmemail_html|i:0;PreviewModeconfirmemail_html|b:1;fontSizeListconfirmemail_html|s:0:"";fontNameListconfirmemail_html|s:0:"";maximagewidthconfirmemail_html|s:3:"700";maximageheightconfirmemail_html|s:3:"400";maxUploadFileSizeconfirmemail_html|i:0;tlbmodeconfirmemail_html|i:0;setCursorconfirmemail_html|i:0;forcePasteWordconfirmemail_html|i:0;forcePasteAsTextconfirmemail_html|i:0;showLineNumberconfirmemail_html|i:0;SingleLineReturnconfirmemail_html|i:1;guidelinesOnByDefaultconfirmemail_html|i:0;useSmartHistoryconfirmemail_html|i:1;docTypeconfirmemail_html|i:1;d1confirmemail_html|i:0;modeconfirmemail_html|s:6:"Simple";spellLangconfirmemail_html|s:8:"american";widthconfirmemail_html|s:4:"100%";heightconfirmemail_html|i:260;sizemodeconfirmemail_html|s:3:"off";oldwconfirmemail_html|i:0;oldhconfirmemail_html|i:0;popup_color_srcconfirmemail_html|s:109:"/admin/de/colormenu.php?name=confirmemail_html&sp=http://newsletter.redeseitec.com.br/admin/de/skins/default/";useXHTMLconfirmemail_html|i:1;dtconfirmemail_html|s:0:"";Savethanksemail_html|b:1;Spellingthanksemail_html|i:0;RemoveTextFormattingthanksemail_html|i:0;FullScreenthanksemail_html|i:0;Boldthanksemail_html|i:0;Underlinethanksemail_html|i:0;Customthanksemail_html|i:0;Italicthanksemail_html|i:0;Strikethroughthanksemail_html|i:0;NumberListthanksemail_html|i:0;BulletListthanksemail_html|i:0;DecreaseIndentthanksemail_html|i:0;IncreaseIndentthanksemail_html|i:0;SuperScriptthanksemail_html|i:0;disableContextMenuthanksemail_html|i:0;SubScriptthanksemail_html|i:0;LeftAlignthanksemail_html|i:0;CenterAlignthanksemail_html|i:0;RightAlignthanksemail_html|i:0;Justifythanksemail_html|i:0;HorizontalRulethanksemail_html|i:0;Linkthanksemail_html|i:0;ComboStylesthanksemail_html|b:1;Anchorthanksemail_html|i:0;MailLinkthanksemail_html|i:0;Helpthanksemail_html|b:1;Fontthanksemail_html|i:0;Sizethanksemail_html|i:0;Formatthanksemail_html|i:0;Copythanksemail_html|i:0;Cutthanksemail_html|i:0;Pastethanksemail_html|i:0;Filethanksemail_html|i:0;Mediathanksemail_html|b:1;Stylethanksemail_html|i:0;ForeColorthanksemail_html|i:0;BackColorthanksemail_html|i:0;Tablethanksemail_html|i:0;Formthanksemail_html|i:0;Imagethanksemail_html|i:0;Flashthanksemail_html|b:1;Paragraphthanksemail_html|i:0;TextBoxthanksemail_html|i:0;Symbolsthanksemail_html|i:0;Propsthanksemail_html|i:0;Cleanthanksemail_html|i:0;Absolutethanksemail_html|i:0;Guidelinesthanksemail_html|i:0;EditModethanksemail_html|i:0;SourceModethanksemail_html|i:0;PreviewModethanksemail_html|b:1;fontSizeListthanksemail_html|s:0:"";fontNameListthanksemail_html|s:0:"";maximagewidththanksemail_html|s:3:"700";maximageheightthanksemail_html|s:3:"400";maxUploadFileSizethanksemail_html|i:0;tlbmodethanksemail_html|i:0;setCursorthanksemail_html|i:0;forcePasteWordthanksemail_html|i:0;forcePasteAsTextthanksemail_html|i:0;showLineNumberthanksemail_html|i:0;SingleLineReturnthanksemail_html|i:1;guidelinesOnByDefaultthanksemail_html|i:0;useSmartHistorythanksemail_html|i:1;docTypethanksemail_html|i:1;d1thanksemail_html|i:0;modethanksemail_html|s:6:"Simple";spellLangthanksemail_html|s:8:"american";widththanksemail_html|s:4:"100%";heightthanksemail_html|i:260;sizemodethanksemail_html|s:3:"off";oldwthanksemail_html|i:0;oldhthanksemail_html|i:0;popup_color_srcthanksemail_html|s:108:"/admin/de/colormenu.php?name=thanksemail_html&sp=http://newsletter.redeseitec.com.br/admin/de/skins/default/";useXHTMLthanksemail_html|i:1;dtthanksemail_html|s:0:"";Savethankspage_html|b:1;Spellingthankspage_html|i:0;RemoveTextFormattingthankspage_html|i:0;FullScreenthankspage_html|i:0;Boldthankspage_html|i:0;Underlinethankspage_html|i:0;Customthankspage_html|i:0;Italicthankspage_html|i:0;Strikethroughthankspage_html|i:0;NumberListthankspage_html|i:0;BulletListthankspage_html|i:0;DecreaseIndentthankspage_html|i:0;IncreaseIndentthankspage_html|i:0;SuperScriptthankspage_html|i:0;disableContextMenuthankspage_html|i:0;SubScriptthankspage_html|i:0;LeftAlignthankspage_html|i:0;CenterAlignthankspage_html|i:0;RightAlignthankspage_html|i:0;Justifythankspage_html|i:0;HorizontalRulethankspage_html|i:0;Linkthankspage_html|i:0;ComboStylesthankspage_html|b:1;Anchorthankspage_html|i:0;MailLinkthankspage_html|i:0;Helpthankspage_html|b:1;Fontthankspage_html|i:0;Sizethankspage_html|i:0;Formatthankspage_html|i:0;Copythankspage_html|i:0;Cutthankspage_html|i:0;Pastethankspage_html|i:0;Filethankspage_html|i:0;Mediathankspage_html|b:1;Stylethankspage_html|i:0;ForeColorthankspage_html|i:0;BackColorthankspage_html|i:0;Tablethankspage_html|i:0;Formthankspage_html|i:0;Imagethankspage_html|i:0;Flashthankspage_html|b:1;Paragraphthankspage_html|i:0;TextBoxthankspage_html|i:0;Symbolsthankspage_html|i:0;Propsthankspage_html|i:0;Cleanthankspage_html|i:0;Absolutethankspage_html|i:0;Guidelinesthankspage_html|i:0;EditModethankspage_html|i:0;SourceModethankspage_html|i:0;PreviewModethankspage_html|b:1;fontSizeListthankspage_html|s:0:"";fontNameListthankspage_html|s:0:"";maximagewidththankspage_html|s:3:"700";maximageheightthankspage_html|s:3:"400";maxUploadFileSizethankspage_html|i:0;tlbmodethankspage_html|i:0;setCursorthankspage_html|i:0;forcePasteWordthankspage_html|i:0;forcePasteAsTextthankspage_html|i:0;showLineNumberthankspage_html|i:0;SingleLineReturnthankspage_html|i:1;guidelinesOnByDefaultthankspage_html|i:0;useSmartHistorythankspage_html|i:1;docTypethankspage_html|i:1;d1thankspage_html|i:0;modethankspage_html|s:6:"Simple";spellLangthankspage_html|s:8:"american";widththankspage_html|s:4:"100%";heightthankspage_html|i:260;sizemodethankspage_html|s:3:"off";oldwthankspage_html|i:0;oldhthankspage_html|i:0;popup_color_srcthankspage_html|s:107:"/admin/de/colormenu.php?name=thankspage_html&sp=http://newsletter.redeseitec.com.br/admin/de/skins/default/";useXHTMLthankspage_html|i:1;dtthankspage_html|s:0:"";Saveerrorhtml|b:1;Spellingerrorhtml|i:0;RemoveTextFormattingerrorhtml|i:0;FullScreenerrorhtml|i:0;Bolderrorhtml|i:0;Underlineerrorhtml|i:0;Customerrorhtml|i:0;Italicerrorhtml|i:0;Strikethrougherrorhtml|i:0;NumberListerrorhtml|i:0;BulletListerrorhtml|i:0;DecreaseIndenterrorhtml|i:0;IncreaseIndenterrorhtml|i:0;SuperScripterrorhtml|i:0;disableContextMenuerrorhtml|i:0;SubScripterrorhtml|i:0;LeftAlignerrorhtml|i:0;CenterAlignerrorhtml|i:0;RightAlignerrorhtml|i:0;Justifyerrorhtml|i:0;HorizontalRuleerrorhtml|i:0;Linkerrorhtml|i:0;ComboStyleserrorhtml|b:1;Anchorerrorhtml|i:0;MailLinkerrorhtml|i:0;Helperrorhtml|b:1;Fonterrorhtml|i:0;Sizeerrorhtml|i:0;Formaterrorhtml|i:0;Copyerrorhtml|i:0;Cuterrorhtml|i:0;Pasteerrorhtml|i:0;Fileerrorhtml|i:0;Mediaerrorhtml|b:1;Styleerrorhtml|i:0;ForeColorerrorhtml|i:0;BackColorerrorhtml|i:0;Tableerrorhtml|i:0;Formerrorhtml|i:0;Imageerrorhtml|i:0;Flasherrorhtml|b:1;Paragrapherrorhtml|i:0;TextBoxerrorhtml|i:0;Symbolserrorhtml|i:0;Propserrorhtml|i:0;Cleanerrorhtml|i:0;Absoluteerrorhtml|i:0;Guidelineserrorhtml|i:0;EditModeerrorhtml|i:0;SourceModeerrorhtml|i:0;PreviewModeerrorhtml|b:1;fontSizeListerrorhtml|s:0:"";fontNameListerrorhtml|s:0:"";maximagewidtherrorhtml|s:3:"700";maximageheighterrorhtml|s:3:"400";maxUploadFileSizeerrorhtml|i:0;tlbmodeerrorhtml|i:0;setCursorerrorhtml|i:0;forcePasteWorderrorhtml|i:0;forcePasteAsTexterrorhtml|i:0;showLineNumbererrorhtml|i:0;SingleLineReturnerrorhtml|i:1;guidelinesOnByDefaulterrorhtml|i:0;useSmartHistoryerrorhtml|i:1;docTypeerrorhtml|i:1;d1errorhtml|i:0;modeerrorhtml|s:6:"Simple";spellLangerrorhtml|s:8:"american";widtherrorhtml|s:4:"100%";heighterrorhtml|i:260;sizemodeerrorhtml|s:3:"off";oldwerrorhtml|i:0;oldherrorhtml|i:0;popup_color_srcerrorhtml|s:101:"/admin/de/colormenu.php?name=errorhtml&sp=http://newsletter.redeseitec.com.br/admin/de/skins/default/";useXHTMLerrorhtml|i:1;dterrorhtml|s:0:"";

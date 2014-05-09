@@ -1,0 +1,3 @@
+<br><a href="index.php?Page=Templates&Action=View&id=%%GLOBAL_Template_ID%%" target="_blank"><img onMouseOver="a=t(this); b=l(this); this.style.width='247'; this.style.height='200'; this.style.position='absolute'; this.style.top=a; this.style.left=b" onMouseOut="this.style.width='173'; this.style.height='140'; this.style.position='';" src="%%GLOBAL_PreviewImage%%" width="173" height="140" style="border: 1px solid gray; margin-bottom: 5px;"></a><br>
+%%GLOBAL_Name%%
+<br/><br/>
